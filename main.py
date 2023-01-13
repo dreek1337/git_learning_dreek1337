@@ -1,6 +1,6 @@
 from time import time
 
-a = 10
+a = 102
 start = time()
 while True:
     a -= 1
