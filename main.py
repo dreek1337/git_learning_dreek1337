@@ -20,3 +20,5 @@ print(time() - start_2)
 start_3 = time()
 b = [i**3211 * i for i in range(10)]
 print(time() - start_3)
+
+print('Завершено')
