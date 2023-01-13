@@ -1,6 +1,12 @@
 print('Жопа')
-# Yeap
 # Yaho
 
+a = 10
 while True:
-    print('Hi')
+    a -= 1
+
+    if a:
+        print('Hi')
+    else:
+        break
+        
