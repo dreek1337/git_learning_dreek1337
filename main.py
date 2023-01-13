@@ -1,1 +1,3 @@
 print('Жопа')
+# Yeap
+# Yaho
